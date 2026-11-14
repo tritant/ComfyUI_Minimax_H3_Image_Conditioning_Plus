@@ -1,0 +1,12 @@
+[project]
+name = "ComfyUI_Minimax_H3_Image_Conditioning_Plus"
+description = "Enhanced MiniMax H3 Image conditioning for ComfyUI. Improves text-to-image generation using virtual Qwen3-VL vision conditioning without creating a reference image. Fully compatible with native multi-image references, dynamic inputs, and VAE processing."
+version = "1.0.0"
+license = { file = "LICENSE.txt" }
+
+[project.urls]
+Repository = "https://github.com/tritant/ComfyUI_Minimax_H3_Image_Conditioning_Plus"
+
+[tool.comfy]
+PublisherId = "tritant"
+DisplayName = "ComfyUI MiniMax H3 Image Conditioning Plus"
