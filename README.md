@@ -1,5 +1,7 @@
 # ComfyUI MiniMax H3 Image Conditioning Plus
 
+Use a minimum resolution of 8 megapixels
+
 An enhanced replacement for the official **MiniMax H3 Image Conditioning** node in ComfyUI, designed to improve **texture quality, fine details, and overall rendering** in Text-to-Image (T2I) generation.
 
 ## Why Conditioning Plus?
