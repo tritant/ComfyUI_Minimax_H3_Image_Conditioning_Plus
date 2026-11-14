@@ -18,3 +18,4 @@ It provides neutral vision patches directly to Qwen3-VL, activating the visual c
 4. In your workflow, replace **MiniMax H3 Image Conditioning** with **MiniMax H3 Image Conditioning Plus**.
 
 **MiniMax H3 Image Conditioning Plus — Better textures, richer details, no reference image required.**
+<img width="296" height="169" alt="Capture d&#39;écran 2026-11-14 154039" src="https://github.com/user-attachments/assets/722dc95f-0719-45e3-9435-fd928c7f4598" />
